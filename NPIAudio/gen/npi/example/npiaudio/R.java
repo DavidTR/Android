@@ -21,9 +21,9 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int gnr_icon=0x7f020000;
+        public static final int anitek_img=0x7f020000;
         public static final int ic_launcher=0x7f020001;
-        public static final int u2_icon=0x7f020002;
+        public static final int lm_img=0x7f020002;
     }
     public static final class id {
         public static final int action_settings=0x7f090008;
@@ -43,18 +43,16 @@ public final class R {
         public static final int npiaudio=0x7f080000;
     }
     public static final class raw {
-        public static final int guns_n_roses=0x7f040000;
-        public static final int u2=0x7f040001;
+        public static final int anitek=0x7f040000;
+        public static final int lm=0x7f040001;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
-        public static final int ayuda_reproduccion=0x7f060008;
+        public static final int ayuda_reproduccion=0x7f060006;
         public static final int bienvenida_aplicacion=0x7f060003;
         public static final int boton_detener=0x7f060005;
         public static final int boton_reproducir_pausa=0x7f060004;
-        public static final int cancion_1=0x7f060006;
-        public static final int cancion_2=0x7f060007;
         public static final int hello_world=0x7f060002;
     }
     public static final class style {

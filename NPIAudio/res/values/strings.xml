@@ -7,8 +7,6 @@
     <string name="bienvenida_aplicacion">Podrá seleccionar una canción y reproducirla:</string>
     <string name="boton_reproducir_pausa">Play/Pause</string>
     <string name="boton_detener">Stop</string>
-    <string name="cancion_1">Guns n Roses: Paradise City</string>
-    <string name="cancion_2">U2: Beautiful Day</string>
     <string name="ayuda_reproduccion">Para cambiar de canción es necesario pulsar Stop</string>
 
 </resources>

@@ -56,7 +56,7 @@ public class NPIAudioActivity extends Activity {
                 	   
             			try {
             				if (!pausado) {
-	            				AssetFileDescriptor afd = NPIAudioActivity.this.getResources().openRawResourceFd( R.raw.guns_n_roses);
+	            				AssetFileDescriptor afd = NPIAudioActivity.this.getResources().openRawResourceFd( R.raw.anitek);
 	
 	                 			reproductor.reset();
 	                 			               			
@@ -91,7 +91,7 @@ public class NPIAudioActivity extends Activity {
             		else {
             			try {
             				if (!pausado) {
-	            				AssetFileDescriptor afd = NPIAudioActivity.this.getResources().openRawResourceFd( R.raw.u2);
+	            				AssetFileDescriptor afd = NPIAudioActivity.this.getResources().openRawResourceFd( R.raw.lm);
 	
 	                			reproductor.reset();
 	

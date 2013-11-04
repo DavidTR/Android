@@ -50,14 +50,15 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="24dp"
             android:checked="true"
-            android:drawableRight="@drawable/gnr_icon" />
+            android:drawableRight="@drawable/anitek_img" />
 
         <RadioButton
             android:id="@+id/radio1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="51dp"
-            android:drawableRight="@drawable/u2_icon" />
+            android:drawableRight="@drawable/lm_img" />
+
     </RadioGroup>
 
     <Button
