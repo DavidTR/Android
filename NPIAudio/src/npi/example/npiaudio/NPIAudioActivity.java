@@ -36,7 +36,7 @@ public class NPIAudioActivity extends Activity {
         pausado = false;
         
         // Creamos el reproductor, para luego sólo cambiar la canción que se ha elegido.
-        reproductor = MediaPlayer.create(NPIAudioActivity.this, R.raw.guns_n_roses);
+        reproductor = new MediaPlayer();
        
         // Método que controla el click que se produce en el botón PLAY. Si ya se está reproduciendo una canción, se muestra un mensaje.
         reproducir.setOnClickListener(new View.OnClickListener() {
